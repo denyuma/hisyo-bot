@@ -1,0 +1,12 @@
+{	
+  "name": "hisyo-bot",	
+  "version": "1.0.0",	
+  "main": "app.js",	
+  "license": "MIT",	
+  "dependencies": {	
+    "cron": "1.8.2",	
+    "kuromoji": "^0.1.2",	
+    "moment-timezone": "0.5.0",	
+    "twitter-lite": "0.14.0"	
+  }	
+}
